@@ -1,5 +1,3 @@
-library(swirl)
-swirl()
 source("http://hjhsu.github.io/r_course/init-swirl.R")
 swirl()
 View(hsb)
